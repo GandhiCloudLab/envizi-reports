@@ -9,3 +9,9 @@ It contains the following sections.
 This section explains about Sustainability Executive Report in Envizi. 
 
 [01-sustainability-executive-report](./01-sustainability-executive-report/)
+
+#### 2. CSR Report in Envizi
+
+This section explains about CSR Report (Corporate Social Responsibility) in Envizi. 
+
+[02-csr-report](./02-csr-report/)
