@@ -15,3 +15,10 @@ This section explains about Sustainability Executive Report in Envizi.
 This section explains about CSR Report (Corporate Social Responsibility) in Envizi. 
 
 [02-csr-report](./02-csr-report/)
+
+#### 50. CSR Report in Envizi
+
+This section explains about Emission Performance in Envizi. 
+
+[50-emission-performance](./50-emission-performance/)
+
