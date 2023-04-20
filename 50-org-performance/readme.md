@@ -34,7 +34,7 @@ Download the file.
 Here is the html format of the file.
 <img src="images/image-21.png">
 
-Actual content of the file is available here. [01-grid_data_activity-by-datatype](./files/01-grid_data_activity-by-datatype/)
+Actual content of the file is available here. [01-grid_data_activity-by-datatype.html](./files/01-grid_data_activity-by-datatype.html)
 
 
 ### 4. Activity by Location - View All
@@ -48,7 +48,7 @@ The result is displayed like this. Download the file.
 Here is the html format of the file.
 <img src="images/image-24.png">
 
-Actual content of the file is available here. [02-grid_data_activity-by-location](./files/02-grid_data_activity-by-location/)
+Actual content of the file is available here. [02-grid_data_activity-by-location.html](./files/02-grid_data_activity-by-location.html)
 
 
 ### 5. View as Emissions
@@ -107,16 +107,12 @@ Actual content of the file is available here. [02-grid_data_activity-by-location
 
 <img src="images/image-48.png">
 
-### 15. Engergy Production
+### 15. Energy Production
 
 <img src="images/image-49.png">
 <img src="images/image-50.png">
 
 ### 16. Solar Portfolio
 
-<img src="images/image-49.png">
-<img src="images/image-50.png">
-
-### 17. Org Summary
-
-<img src="images/image-49.png">
+<img src="images/image-51.png">
+<img src="images/image-52.png">
