@@ -16,9 +16,14 @@ This section explains about CSR Report (Corporate Social Responsibility) in Envi
 
 [02-csr-report](./02-csr-report/)
 
-#### 50. CSR Report in Envizi
+#### 50. Organization Performance
+
+This section explains about Emission Organization in Envizi. 
+
+[50-org-performance](./50-org-performance/)
+
+#### 51. Emission Performance
 
 This section explains about Emission Performance in Envizi. 
 
-[50-emission-performance](./50-emission-performance/)
-
+[51-org-emission-performance](./51-org-emission-performance/)
