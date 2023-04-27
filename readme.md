@@ -2,28 +2,13 @@
 
 This series of article explains about various Reports and Dashboards available in Envizi.
 
-It contains the following sections.
+It contains the following reports.
 
-#### 1. Sustainability Executive Report
+#### Power Reports
+- 1. Sustainability Executive Report  [01-sustainability-executive-report](./01-sustainability-executive-report/)
+- 2. CSR (Corporate Social Responsibility) Report [02-csr-report](./02-csr-report/)
 
-This section explains about Sustainability Executive Report in Envizi. 
+#### Reports 
+- 50. Organization Performance [50-org-performance](./50-org-performance/)
+- 51. Emission Performance [51-org-emission-performance](./51-org-emission-performance/)
 
-[01-sustainability-executive-report](./01-sustainability-executive-report/)
-
-#### 2. CSR Report in Envizi
-
-This section explains about CSR Report (Corporate Social Responsibility) in Envizi. 
-
-[02-csr-report](./02-csr-report/)
-
-#### 50. Organization Performance
-
-This section explains about Emission Organization in Envizi. 
-
-[50-org-performance](./50-org-performance/)
-
-#### 51. Emission Performance
-
-This section explains about Emission Performance in Envizi. 
-
-[51-org-emission-performance](./51-org-emission-performance/)
