@@ -87,7 +87,7 @@ Here are the various sections.
 
 <img src="images/image-35-6.png">
 
-#### 3.5. Engergy
+#### 3.5. Energy
 
 <img src="images/image-36-1.png">
 <img src="images/image-36-2.png">
