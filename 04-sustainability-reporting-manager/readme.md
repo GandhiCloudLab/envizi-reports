@@ -2,7 +2,7 @@
 
 This blog explains about Sustainability Reporting Manager in Envizi. 
 
-## Report Home
+## 1. Report Home
 
 Click on the `Sustainability Reporting Manager` in the home page
 
@@ -10,18 +10,18 @@ Click on the `Sustainability Reporting Manager` in the home page
 
 The Sustainability Reporting Manager home page is displayed.
 
-#### Home
+## 2. Home
 
 <img src="images/image-12-1.png">
 <img src="images/image-12-2.png">
-<details><summary>CLICK ME</summary>
+<details><summary>See more ...</summary>
     <img src="images/image-12-3.png">
     <img src="images/image-12-4.png">
     <img src="images/image-12-5.png">
     <img src="images/image-12-6.png">
 </details>
 
-#### CSR 2021
+## 3. CSR 2021
 
 Click on the `CSR 2021` report.
 
@@ -31,7 +31,7 @@ The CSR report is displayed.
 
 <img src="images/image-13-12.png">
 
-<details><summary>CLICK ME</summary>
+<details><summary>See more ...</summary>
     <img src="images/image-13-13.png">
     <img src="images/image-13-14.png">
     <img src="images/image-13-15.png">
@@ -43,23 +43,7 @@ The CSR report is displayed.
     <img src="images/image-13-21.png">
 </details>
 
-
-#### Questionnaire
-
-Click on the `Scope 1, 2 and 3 greenhouse gas emissions and related risks` link.
-
-<img src="images/image-14-11.png">
-
-The CSR report is displayed.
-
-<img src="images/image-14-12.png">
-
-<details><summary>CLICK ME</summary>
-    <img src="images/image-14-13.png">
-    <img src="images/image-14-14.png">
-</details>
-
-#### Questionnaire
+## 4. Questionnaire
 
 Click on the `Scope 1, 2 and 3 greenhouse gas emissions and related risks` link.
 
@@ -69,12 +53,12 @@ The Questionnaire detail is displayed.
 
 <img src="images/image-14-12.png">
 
-<details><summary>CLICK ME</summary>
+<details><summary>See more ...</summary>
     <img src="images/image-14-13.png">
     <img src="images/image-14-14.png">
 </details>
 
-#### Related Questions
+### 4.1. Related Questions
 
 Click on the `SFDR.1` link from the related questions list.
 
@@ -84,13 +68,13 @@ The related Question is displayed.
 
 <img src="images/image-14-12.png">
 
-<details><summary>CLICK ME</summary>
+<details><summary>See more ...</summary>
     <img src="images/image-14-13.png">
     <img src="images/image-14-14.png">
 </details>
 
 
-#### Another Questionnaire
+### 4.2. Another Questionnaire
 
 Click on the `Energy consumption within the organization` link.
 
@@ -100,12 +84,12 @@ The Questionnaire detail is displayed.
 
 <img src="images/image-16-12.png">
 
-<details><summary>CLICK ME</summary>
+<details><summary>See more ...</summary>
     <img src="images/image-16-13.png">
 </details>
 
 
-#### Add Questions
+## 5. Add Questions
 
 Click on the `Add / Remove Questions` link.
 
@@ -120,7 +104,7 @@ Select the questions to be added and save it.
 <img src="images/image-17-13.png">
 
 
-#### Export
+## 6. Export
 
 Click on the `Export` link.
 
@@ -128,8 +112,8 @@ Click on the `Export` link.
 
 Choose the options and Click on the `Export` button.
 
-<img src="images/image-17-12.png">
+<img src="images/image-18-12.png">
 
 The report get exported and available as pdf
 
-<img src="images/image-17-13.png">
+<img src="images/image-18-13.png">
