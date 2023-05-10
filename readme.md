@@ -8,6 +8,7 @@ This article explains about various Reports and Dashboards available in Envizi.
 3. Turbonomic Performance Dashboard [40-turbonomic-performance-dashaboard](./40-turbonomic-performance-dashaboard/)
 4. CDP Report [03-cdp](./03-cdp/)
 5. Scope 3 Emissions Report [06-scope3-emissions-report](./06-scope3-emissions-report/)
+6. Utility Account Analytics [07-utility-account-analytics](./07-utility-account-analytics/)
 
 #### Sustainability Reporting Manager 
 
