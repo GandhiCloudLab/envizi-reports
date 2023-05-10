@@ -7,6 +7,7 @@ This article explains about various Reports and Dashboards available in Envizi.
 2. CSR (Corporate Social Responsibility) Report [02-csr-report](./02-csr-report/)
 3. Turbonomic Performance Dashboard [40-turbonomic-performance-dashaboard](./40-turbonomic-performance-dashaboard/)
 4. CDP Report [03-cdp](./03-cdp/)
+5. Sustainability Reporting Manager [04-sustainability-reporting-manager](./04-sustainability-reporting-manager/)
 
 #### Reports 
 50. Organization Performance [50-org-performance](./50-org-performance/)
