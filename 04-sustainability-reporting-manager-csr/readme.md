@@ -1,6 +1,6 @@
-# Sustainability Reporting Manager in Envizi
+# Sustainability Reporting Manager - CSR Report in Envizi
 
-This blog explains about Sustainability Reporting Manager in Envizi. 
+This blog explains about Sustainability Reporting Manager - CSR Report in Envizi. 
 
 ## 1. Open the Report
 
