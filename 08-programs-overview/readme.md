@@ -46,21 +46,30 @@ Here is the home page
 
 <img src="images/image-22.png">
 
+<details><summary>See more ...</summary>
+
 <img src="images/image-23.png">
 
 <img src="images/image-24.png">
 
 <img src="images/image-25.png">
 
+</details>
+
 ### 3.2 Project Explorer
 
 <img src="images/image-26.png">
+
+<details><summary>See more ...</summary>
+
 
 <img src="images/image-27.png">
 
 <img src="images/image-28.png">
 
 <img src="images/image-29.png">
+
+</details>
 
 ### 3.3 Project Details
 
