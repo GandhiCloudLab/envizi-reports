@@ -13,11 +13,11 @@ Open the report using the Reports search
 
 ## 2. Report Home
 
-Here the report home page.
+Here is the report home page.
+
+Click on the `>` to goto the next page
 
 <img src="images/image-13.png">
-
-click on the `>` to goto the next page
 
 ## 3. Emissions Dashboard
 
@@ -31,27 +31,29 @@ Click on the `Select a category to enable drill through` button.
 
 Category Analyis get displayed.
 
+Click on the `>` to goto the next page
+
 <img src="images/image-15.png">
 
-click on the `>` to goto the next page
 
 ## 5. Contributor Dashboard
 
 Contributor Dashboard is displayed.
 
-<img src="images/image-16.png">
-
 Select the `Cairns Pty Ltd`  and then
 
-Select a `contributor to enable drill through` button
+Select the `contributor to enable drill through` button
+
+<img src="images/image-16.png">
 
 ## 6. Contributor Analysis
 
 Contributor Analysis get displayed.
 
+Click on the `>` to goto the next page
+
 <img src="images/image-17.png">
 
-Click on the `>` to goto the next page
 
 ## 7. Data Gaps and Opportunities
 
