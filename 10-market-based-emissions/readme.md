@@ -34,7 +34,7 @@ Here is the Home page
 
 <img src="images/image-17.png">
 
-#### 3.3 Region - By Group
+#### 3.3 Region - By Region
 
 <img src="images/image-18.png">
 
@@ -45,15 +45,15 @@ Here is the Home page
 
 ## 4 Renewables by group
 
-#### 4.1 Group - By Group
+#### 4.1 Group
 
 <img src="images/image-20.png">
 
-#### 4.2 Group - By Group Grid View
+#### 4.2 Group Grid View
 
 <img src="images/image-21.png">
 
-#### 4.3 Region - By Group
+#### 4.3 Region
 
 <img src="images/image-22.png">
 
@@ -79,7 +79,7 @@ Here is the Home page
 
 <img src="images/image-26.png">
 
-#### 6.2 By Region
+#### 6.2 Region
 
 <img src="images/image-27.png">
 
