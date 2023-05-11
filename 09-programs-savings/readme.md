@@ -28,7 +28,7 @@ Open the report using the Reports search
 
 <img src="images/image-16.png">
 
-## 4. Various links
+## 3. Various links
 
 Here are the various links available to navigate to the above discussed screens.
 
