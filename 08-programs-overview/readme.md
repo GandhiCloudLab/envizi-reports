@@ -73,7 +73,7 @@ Here is the home page
 
 ### 3.3 Project Details
 
-<img src="images/image-26.png">
+<img src="images/image-30.png">
 
 ## 4. Various links
 
