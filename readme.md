@@ -14,6 +14,7 @@ This article explains about various Reports and Dashboards available in Envizi.
  8. [Programs Savings](./09-programs-savings/)
  9. [Market Based Emissions](./10-market-based-emissions/)
 10. [Account Data Health Check](./11-account-data-health-check/)
+11. [Sustainability Portfolio Performance](./12-sustainability-portfolio-performance/)
 
 #### Sustainability Reporting Manager 
 
