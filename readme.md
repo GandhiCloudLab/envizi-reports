@@ -41,12 +41,10 @@ This article explains about various Reports and Dashboards available in Envizi.
 14. [Energy Start Portfolio](./65-dashboard-energy-star-portfolio/)
 
 15. [Solar Portfolio](./66-dashboard-solar-portfolio/)
-16. [Solar Performance and PayBack](./67-dashboard-solar-performance-and-payback/)
+16. [Meter Alerts Summary](./68-dashboard-meter-alerts-summary/)
+17. [Meter Alerts Notifications](./70-dashboard-meter-alerts-notifications/)
 
-17. [Meter Alerts Summary](./68-dashboard-meter-alerts-summary/)
-18. [Meter Alerts Notifications](./70-dashboard-meter-alerts-notifications/)
-
-19. [Issues Summary](./71-dashboard-issues-summary/)
-20. [Issues All Issues](./72-dashboard-issues-all-issues/)
-21. [Issues All Boards](./73-dashboard-issues-all-boards/)
+18. [Issues Summary](./71-dashboard-issues-summary/)
+19. [Issues All Issues](./72-dashboard-issues-all-issues/)
+20. [Issues All Boards](./73-dashboard-issues-all-boards/)
 
