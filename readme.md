@@ -18,10 +18,35 @@ This article explains about various Reports and Dashboards available in Envizi.
 
 #### Sustainability Reporting Manager 
 
-40. [Sustainability Reporting Manager - CSR](./04-sustainability-reporting-manager-csr/)
+1. [Sustainability Reporting Manager - CSR](./04-sustainability-reporting-manager-csr/)
 
-#### Reports
+#### Dashboards
 
-50. [Organization Performance](./50-org-performance/)
-51. [Emission Performance](./51-org-emission-performance/)
+
+1. [Organization Summary](./50-org-summary/)
+2. [Organization Performance](./51-org-performance/)
+3. [Emission Performance](./57-org-emission-performance/)
+
+4. [Organization Performance By DataType](./52-org-performance-by-datatype/)
+5. [Organization Performance By Group](./53-org-performance-by-group/)
+6. [Organization Performance By Scope](./54-org-performance-by-scope/)
+7. [Organization Performance By TagType](./55-org-performance-by-tagtype/)
+8. [Organization Performance By Trend](./56-org-performance-by-trend/)
+
+9. [Energy Production](./60-dashboard-energy-production/)
+10. [Ranking Locations By Intensity](./61-dashboard-ranking-locations-by-intensity/)
+11. [Ranking Locations By Ratio](./62-dashboard-ranking-locations-by-ratio/)
+12. [Ranking Groups By Intensity](./63-dashboard-ranking-groups-by-intensity/)
+13. [Rate Analysis](./64-dashboard-rate-analysis/)
+14. [Energy Start Portfolio](./65-dashboard-energy-star-portfolio/)
+
+15. [Solar Portfolio](./66-dashboard-solar-portfolio/)
+16. [Solar Performance and PayBack](./67-dashboard-solar-performance-and-payback/)
+
+17. [Meter Alerts Summary](./68-dashboard-meter-alerts-summary/)
+18. [Meter Alerts Notifications](./70-dashboard-meter-alerts-notifications/)
+
+19. [Issues Summary](./71-dashboard-issues-summary/)
+20. [Issues All Issues](./72-dashboard-issues-all-issues/)
+21. [Issues All Boards](./73-dashboard-issues-all-boards/)
 
