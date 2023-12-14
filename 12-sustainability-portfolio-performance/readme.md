@@ -2,6 +2,8 @@
 
 This blog explains about Sustainability Portfolio Performance Report in Envizi. 
 
+The Sustainability (Portfolio Performance) is a PowerReport designed to provide information on key sustainability indicators across your property portfolio, including: Emissions, Electricity, Gas, Waste amd water
+
 ## 1. Open the Report
 
 Open the report using the Reports search

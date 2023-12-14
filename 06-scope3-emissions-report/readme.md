@@ -2,6 +2,8 @@
 
 This blog explains about Scope 3 emissions Report in Envizi. 
 
+This report will allow your organization to view total Scope 3 Emissions across all 15 Scope 3 Categories and will provide insight into the Calculation Accuracy of each of the methods used in your data.
+
 ## 1. Open the Report
 
 Open the report using the Reports search

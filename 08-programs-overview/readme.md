@@ -2,6 +2,8 @@
 
 This blog explains about Programs Overview Report in Envizi. 
 
+The Programs Overview Power Report provides an overview of your Programs expected emissions, energy and cost savings. You can review Program Actions by their status, type, geography and make informed decisions based on their savings trajectories into the future. The report also provides an intensity ranking comparison to help you understand and make selections on the Programs that will achieve the highest return of investments in terms of emissions, energy and cost savings.
+
 ## 1. Open the Report
 
 Open the report using the Reports search

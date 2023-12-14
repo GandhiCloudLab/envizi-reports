@@ -1,6 +1,6 @@
 # Organization Performance in Envizi
 
-This blog explains about Organization Performance dashboard in Envizi. 
+This article explains about Organization Performance dashboard in Envizi. 
 
 ## 1. Open the Organization Performance Dashboard
 

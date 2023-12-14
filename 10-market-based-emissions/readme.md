@@ -2,6 +2,8 @@
 
 This blog explains about Market Based Emissions Report in Envizi. 
 
+This report will allow your organization to view total electricity consumption including renewables and report on both market-based and location based emissions.
+
 ## 1. Open the Report
 
 Open the report using the Reports search

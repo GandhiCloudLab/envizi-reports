@@ -1,6 +1,8 @@
 # Sustainability Executive Report in Envizi
 
-This blog explains about Sustainability Executive Report in Envizi. 
+This article explains about Sustainability Executive Report in Envizi. 
+
+The Sustainability (Executive Report) is a PowerReport . This report is designed to provide information on key sustainability indicators across your property portfolio, including: Emissions, Energy, Waste, Water and other  (including paper, flights and refrigerants)
 
 ## 1. Report Home
 

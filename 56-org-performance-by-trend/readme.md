@@ -2,6 +2,6 @@
 
 Here is the  Organization Performance By Trend dashboard in Envizi. 
 
-### 13. Performance Trend 
+The `Period Comparision` bar chart shows the performance of the each Trend for specific timeperiod.
 
 <img src="images/image-47.png">
