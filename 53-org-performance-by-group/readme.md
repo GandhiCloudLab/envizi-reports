@@ -8,11 +8,6 @@ The `Actvity by Period by Sub Group` bar chart shows performance of the each gro
 
 The `Activity by Sub Group` pie chart shows the Group wise contribution.
 
-<img src="images/image-36.png">
-<img src="images/image-37.png">
-<img src="images/image-38.png">
-
-
 <img src="images/image-39.png">
 
 <img src="images/image-40.png">
