@@ -12,8 +12,8 @@ This blog explains about CSR Report (Corporate Social Responsibility) in Envizi.
 
 ### 3. Employee Safety
 
-<img src="images/image-13.png">
+<img src="images/image-14.png">
 
 ### 4. Community Investment
 
-<img src="images/image-14.png">
+<img src="images/image-15.png">
